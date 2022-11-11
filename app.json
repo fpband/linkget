@@ -18,7 +18,7 @@
     "channel_files_chat_id": {
       "description": " Telegram channel chat ID for storing and managing files",
       "required": "true",
-      "value": "-1001504782123"
+      "value": "-1001645543494"
     },
     "channel_username": {
       "description": "Telegram channel username for support",
@@ -33,7 +33,7 @@
     "domain": {
       "description": "Heroku application domain Example: https://newdlstar.herokuapp.com",
       "required": "true",
-      "value": "https://m-dl24.herokuapp.com"
+      "value": "https://newsfastlink.scalingo.com"
     }
   }
 }
