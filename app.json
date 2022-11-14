@@ -28,7 +28,7 @@
     "token": {
       "description": "Telegram robot token for launch .",
       "required": "true",
-      "value": "2147458930:AAEpjUlRVk87oK_jsqCOAyvGhLfAh3hFybg"
+      "value": "1996499923:AAGVCjT4msY1AOHb-qtalwMsrwu0dD65k7g"
     },
     "domain": {
       "description": "Heroku application domain Example: https://newdlstar.herokuapp.com",
